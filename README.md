@@ -8,8 +8,8 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [SRE Agents](#sre-agents)
 
 ### Agent Benchmarks
-[SRE Bench](https://sreben.ch/)
-
+- [SRE Bench](https://sreben.ch/)
+- [Not Human Search](https://nothumansearch.ai)
 
 ### Incident Response Agents
 - [Beeps](https://www.beeps.co/)
@@ -38,4 +38,3 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source)
 - [Metoro](https://www.metoro.io/) 
 - [Ingero](https://github.com/ingero-io/ingero) (Open Source)
-
